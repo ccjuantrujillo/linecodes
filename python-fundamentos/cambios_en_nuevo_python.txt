@@ -1,0 +1,22 @@
+raw_input() -> input()
+input() -> eval(input())
+
+nombre = input('Ingrese el primer numero: ')
+
+var = int(nombre)
+print( "El cuadrado es:",var**2 )
+print("Edward Figueroa Maldonado")
+
+tkinter por Tkinter
+
+print('La suma entre los valores %d y %d es %d' %(n,m,suma))
+
+
+Limpiar pantalla en python
+import os
+os.system('cls')
+
+
+Imprimir en una sola linea
+for i in range(3):
+    print(str(i), end=" ")

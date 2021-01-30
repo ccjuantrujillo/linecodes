@@ -1,0 +1,21 @@
+edu@gmail.com   
+juan@yahoo.com
+.
+.
+.
+.
+.
+usuario: maximo 10 caracteres
+dominio: maximo 10 caracteres
+extension: maximo 3 caracteres
+generar 100000 correos aleatorios
+investigar: email verification
+(como enviar un correo con python 'libreria: smtp' "cear una cuenta gmail")
+1 archivo correctos
+2 archivo incorrectos
+
+http://www.pythondiario.com/2014/12/enviar-un-correo-con-python-smtplib.html
+https://sateliteguayana.wordpress.com/2016/04/20/script-python-para-borrar-lineas-de-un-archivo/
+https://www.rqlogic.com/blog/2016/Nov/2/validar-direccion-correo-electronico-email-con-python/
+https://github.com/syrusakbary/validate_email
+http://www.pythondiario.com/2016/10/como-instalar-pip-en-linux-y-windows.html
