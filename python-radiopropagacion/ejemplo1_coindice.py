@@ -22,10 +22,22 @@ es = a*math.exp(b*t/(t+c))
 e  = H * es / 100
 print('e = ',e)
 
-print('\nb) Obtenemos el coíndica de refracción a nivel del mar (No): ')
+print('\nb) Obtenemos el coíndice de refracción a nivel del mar (No): ')
 No = (77.6/T)*(P + 4810*e/T)
 print('No = ',No)
 
-print('\nc) Obtenemos el coíndica de refracción a una altura (Ns): ')
+print('\nc) Obtenemos el coíndice de refracción a una altura (Ns): ')
 Ns = No*math.exp(-0.136*hs)
 print('Ns = ',Ns)
+
+if hs != 0:
+    Re  = 6370
+    print('\nd) Indice de refracción modificado M: ')
+    M 0 n + (hs/Re)*1e+6
+    print('M = ', M)
+    print('\ne) Radio de la trayectoria R(km): ')
+    R = -1e+6*hs/(Ns - No)
+    print('R(km) = ', R)
+    print('\nf) Indice de refracción k: ')
+    k = 1/(1-Re/R)
+    print('k = ', k)
