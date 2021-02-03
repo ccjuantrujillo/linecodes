@@ -20,14 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ddccdaf-07b9-4234-82ef-c5731ddfca53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/propagacion1_Parametros de reflexion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/propagacion2_Coeficiente de reflexion con D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/propagacion2_Coeficiente de reflexion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/propagacion4_Coeficiente de rugosidad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-radiopropagacion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-radiopropagacion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejemplo1_coindice" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/propagacion10_Difracción terreno redondeado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/propagacion5_Coindice de refraccion 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/propagacion6_Radio de la trayectoria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/propagacion7_Radio de la trayectoria 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/propagacion8_Conversion de presion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/propagacion9_Difraccion filo de cuchillo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplo1_coindice.py" beforeDir="false" afterPath="$PROJECT_DIR$/propagacion5_Coindice de refraccion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +56,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.propagacion1_Parametros de reflexion">
-    <configuration name="ejemplo1_coindice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.propagacion10_Difracción terreno redondeado">
+    <configuration name="propagacion10_Difracción terreno redondeado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-radiopropagacion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejemplo1_coindice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/propagacion10_Difracción terreno redondeado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="propagacion1_Parametros de reflexion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="propagacion5_Coindice de refraccion 2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-radiopropagacion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/propagacion1_Parametros de reflexion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/propagacion5_Coindice de refraccion 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="propagacion2_Coeficiente de reflexion con D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="propagacion5_Coindice de refraccion 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-radiopropagacion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/propagacion2_Coeficiente de reflexion con D.py" />
+      <option name="SCRIPT_NAME" value="D:\scripts\python\python-teleco\python-radiopropagacion\propagacion5_Coindice de refraccion 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="propagacion2_Coeficiente de reflexion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="propagacion5_Coindice de refraccion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-radiopropagacion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +132,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/propagacion2_Coeficiente de reflexion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/propagacion5_Coindice de refraccion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="propagacion9_Difraccion filo de cuchillo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-radiopropagacion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/propagacion9_Difraccion filo de cuchillo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,10 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.propagacion1_Parametros de reflexion" />
-        <item itemvalue="Python.ejemplo1_coindice" />
-        <item itemvalue="Python.propagacion2_Coeficiente de reflexion" />
-        <item itemvalue="Python.propagacion2_Coeficiente de reflexion con D" />
+        <item itemvalue="Python.propagacion10_Difracción terreno redondeado" />
+        <item itemvalue="Python.propagacion9_Difraccion filo de cuchillo" />
+        <item itemvalue="Python.propagacion5_Coindice de refraccion (1)" />
+        <item itemvalue="Python.propagacion5_Coindice de refraccion 2 (1)" />
+        <item itemvalue="Python.propagacion5_Coindice de refraccion 2" />
       </list>
     </recent_temporary>
   </component>
@@ -173,24 +195,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1344" height="141" key="GridCell.Tab.0.bottom" timestamp="1612169218029">
+    <state x="392" y="0" key="#ejemplo1_coindice" timestamp="1612285853002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612169218029" />
-    <state width="1344" height="141" key="GridCell.Tab.0.center" timestamp="1612169218029">
+    <state x="392" y="0" key="#ejemplo1_coindice/0.0.1366.728@0.0.1366.728" timestamp="1612285853002" />
+    <state width="645" height="175" key="GridCell.Tab.0.bottom" timestamp="1612310626328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612169218029" />
-    <state width="1344" height="141" key="GridCell.Tab.0.left" timestamp="1612169218029">
+    <state width="645" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612310626328" />
+    <state width="645" height="175" key="GridCell.Tab.0.center" timestamp="1612310626328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612169218029" />
-    <state width="1344" height="141" key="GridCell.Tab.0.right" timestamp="1612169218029">
+    <state width="645" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612310626328" />
+    <state width="645" height="175" key="GridCell.Tab.0.left" timestamp="1612310626328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612169218029" />
+    <state width="645" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612310626328" />
+    <state width="645" height="175" key="GridCell.Tab.0.right" timestamp="1612310626328">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="645" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612310626328" />
     <state width="1344" height="194" key="GridCell.Tab.1.bottom" timestamp="1612169218025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
